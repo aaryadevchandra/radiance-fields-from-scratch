@@ -45,8 +45,6 @@ Replace the placeholder below with your rendered result.
   <img src="images/output.png" alt="NeRF Output" width="800">
 </p>
 
-> Put your output image at `images/output.png`
-
 ---
 
 ## Built With
